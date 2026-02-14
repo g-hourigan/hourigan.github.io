@@ -30,3 +30,11 @@ defaults:
     values:
       layout: single
       author_profile: true
+# Hide theme credits in footer
+footer:
+  links: []
+
+# Disable RSS feed + the FEED button/link
+atom_feed:
+  hide: true
+
