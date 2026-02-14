@@ -1,8 +1,5 @@
 ---
 ---
-title: Gerrit Hourigan
-description: Quantitative psychology 
-theme: jekyll-theme-minimal
 
 @import "{{ site.theme }}";
 
@@ -17,3 +14,9 @@ footer small {
 header p.view {
   display: none !important;
 }
+/* Make content area wider + more readable */
+section { width: 720px; font-size: 16px; line-height: 1.6; }
+@media print, screen and (max-width: 960px) { section { width: auto; } }
+
+/* Slightly tighten headings */
+h1, h2 { margin-top: 0.8em; }
