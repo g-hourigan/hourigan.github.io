@@ -14,12 +14,20 @@ footer small {
 header p.view {
   display: none !important;
 }
-/* --- Layout fix (prevents overlap with left sidebar) --- */
-.wrapper { max-width: 980px; }   /* give the whole page more room */
-header  { width: 260px; }        /* left column */
-section { width: 660px; }        /* right column (keep <= wrapper - header) */
+/* --- Layout: prevent header/section overlap --- */
+.wrapper { max-width: 1000px; }
 
+header { width: 260px; }
+
+section {
+  float: none;          /* stop float-based weirdness */
+  margin-left: 300px;   /* leave space for fixed header */
+  max-width: 720px;
+  width: auto;
+}
+
+/* Mobile */
 @media print, screen and (max-width: 960px) {
-  header, section { float: none; width: auto; }
-  .wrapper { width: auto; max-width: 100%; }
+  header { position: relative; width: auto; }
+  section { margin-left: 0; max-width: 100%; }
 }
