@@ -1,6 +1,4 @@
-## Navigation
-- [Projects](/projects/)
-- [About](/about/)
+[Projects](/projects/) · [About](/about/)
 
 ## Project one
 - Description
