@@ -1,7 +1,8 @@
 ---
-title: Research & Code
+layout: default
+title: Projects
+permalink: /projects/
 ---
-
 # Research & Code
 
 ## Chess training & self-control (in progress)
