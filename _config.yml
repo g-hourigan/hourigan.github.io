@@ -19,9 +19,7 @@ author:
     - label: "GitHub"
       icon: "fab fa-github"
       url: "https://github.com/g-hourigan"
-    - label: "FIDE"
-      icon: "fas fa-chess"
-      url: "https://ratings.fide.com/profile/16204174"
+    
 
 defaults:
   - scope:
