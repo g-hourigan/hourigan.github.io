@@ -8,8 +8,6 @@ author_profile: true
 I’m a Psychology M.Sc. student with a data science focus, interested in **psychometrics**, **statistical modeling**, and **causal inference**.
 
 **Email:** [gerrithourigan@gmail.com](mailto:gerrithourigan@gmail.com)  
-**GitHub:** https://github.com/g-hourigan  
-**FIDE:** https://ratings.fide.com/profile/16204174
 
 ---
 
@@ -35,4 +33,4 @@ German (native) · English (C2) · Spanish (C1)
 
 ### Awards & Publications
 - Chessable Research Award ($1000) — Bachelor thesis: *The Role of Self-control and Deliberate Practice in the Acquisition of Chess Skill*
-- Hourigan, G., & Freund, P. A. (in preparation). *When Self-Control Fails to Predict Expertise: Evidence from Competitive Chess.*
+- Hourigan, G., & Freund, P. A. (in preparation). 
