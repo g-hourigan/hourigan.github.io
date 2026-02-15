@@ -10,7 +10,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name: "Gerrit Hourigan"
+ 
   bio: "Incoming Psychology M.Sc. (data science) — psychometrics, statistical modeling, causal inference."
   links:
     - label: "Email"
